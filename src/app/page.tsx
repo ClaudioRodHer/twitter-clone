@@ -57,7 +57,7 @@ export const Home = () => {
             ))
           }
         </section>
-        <main>Home Time line</main>
+        <main>Home Time line </main>
         <section>right section</section>
       </div>
     </div>
